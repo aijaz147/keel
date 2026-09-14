@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,unit_cogs,launch_date,margin_pct_at_list_price
+SKU001,Gentle Hydra Cleanser,Cleansers,24.0,7.2,2025-09-14,0.7
+SKU002,Clarify Foaming Cleanser,Cleansers,22.0,6.6,2025-09-14,0.7
+SKU003,Vitamin C Brightening Serum,Serums,48.0,12.0,2025-09-14,0.75
+SKU004,Retinol Renewal Serum,Serums,56.0,15.68,2025-10-14,0.72
+SKU005,Hyaluronic Moisture Serum,Serums,42.0,10.5,2025-09-14,0.75
+SKU006,Daily Barrier Moisturizer,Moisturizers,38.0,11.4,2025-09-14,0.7
+SKU007,Overnight Repair Cream,Moisturizers,52.0,16.64,2025-11-13,0.68
+SKU008,Mineral Sunscreen SPF 40,Sunscreen,32.0,9.6,2025-09-14,0.7
+SKU009,Bright Eyes Depuffing Cream,Eye Care,34.0,10.88,2025-12-13,0.68
+SKU010,Clay Detox Mask,Masks,28.0,8.4,2025-09-14,0.7
+SKU011,The Essentials Bundle,Bundles & Sets,98.0,38.0,2025-10-29,0.6122
+SKU012,Glow Ritual Bundle (5-Piece),Bundles & Sets,145.0,61.0,2026-01-12,0.5793
