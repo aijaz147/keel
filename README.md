@@ -97,6 +97,10 @@ The tracking-health page rebuilds multi-touch paths from `web_sessions.csv` and 
 
 The last one is a heuristic, not a trained model, and the page says so rather than dressing it up. A genuine data-driven attribution model needs a large volume of converting and non-converting paths plus a trained conversion-probability model — that's a warehouse-scale project, not something a single app should quietly pretend to be doing. Orders with no session match at all stay unattributed under every model, because credit can only be reallocated across a path that was actually tracked.
 
+## Looker Studio
+
+There's a Looker Studio build of the four core pages alongside this app, in `looker_studio/` — same data, same metric definitions, exported as flat tables instead of read by Streamlit. See `looker_studio/README.md`.
+
 ## Running it
 
 Needs Python 3.11+.
